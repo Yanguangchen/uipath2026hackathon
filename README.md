@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = """# AML KYC Understand Purpose Automation
-
 ## Project Overview
 
 This project automates the Understand Purpose step inside an AML KYC onboarding workflow using UiPath Agents, UiPath Robots, and human review.
