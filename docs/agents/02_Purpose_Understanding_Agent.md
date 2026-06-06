@@ -1,21 +1,4 @@
-# TrustFlow
-
 # Purpose Understanding Agent
-
-## Project context
-
-TrustFlow is a hackathon project for AML KYC onboarding.
-
-The project focuses only on the Understand Purpose step.
-
-The system helps check why a customer wants to use a service, whether the explanation makes sense, whether more information is needed, and whether the case should be escalated to a human compliance reviewer.
-
-This is not a full AML system. The goal is to demonstrate a simple Maestro workflow with multiple agents.
-
-Slogan: Trust made simple. Compliance made faster.
-
-Design principle: Robot handles process. Agent handles reasoning. Human handles final risky decisions.
-
 
 ## Agent role
 
